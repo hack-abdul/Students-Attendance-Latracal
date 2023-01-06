@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Students-Attendance-Latracal/static/css/main.073c9b0a.css",
+    "main.js": "/Students-Attendance-Latracal/static/js/main.87fafe44.js",
+    "static/js/787.87d83cd8.chunk.js": "/Students-Attendance-Latracal/static/js/787.87d83cd8.chunk.js",
+    "index.html": "/Students-Attendance-Latracal/index.html",
+    "main.073c9b0a.css.map": "/Students-Attendance-Latracal/static/css/main.073c9b0a.css.map",
+    "main.87fafe44.js.map": "/Students-Attendance-Latracal/static/js/main.87fafe44.js.map",
+    "787.87d83cd8.chunk.js.map": "/Students-Attendance-Latracal/static/js/787.87d83cd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.87fafe44.js"
+  ]
+}
